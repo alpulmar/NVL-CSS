@@ -1,0 +1,11 @@
+PRÁCTICA FINAL DEL MÓDULO DE CSS:
+
+Para esta práctica se ha pedido realizar una web cuya estructura se divide en tres partes diferenciadas. El espacio web se ha bautizado con el nombre de "SpanishVillages.com", en el cual se ofrece un servicio al turista, sea extranjero o de ámbito nacional, sobre un conjunto de información de los pueblos más destacados del territorio español. Esa información se divide en tres bloques bien diferenciados a la vista del usuario, y son los siguientes:
+
+a)"Top 10 pueblos más bonitos de España": en este primer bloque se presenta un listado, no ordenado, de 10 localidades españolas que destacan tanto por sus características culturales como naturales o paisajísticas. Cada elemento del listado, que representa una localidad, se trata de un enlace de tipo "ancla" para acceder a dicha información local en el bloque siguiente. 
+
+b)"Información general": en esta columna central se presenta de forma vertical la información de cada localidad. Dicha información queda resumida en una imagen adjunta y su descripción posterior en el párrafo correspondiente. Además, en la parte inferior de cada párrafo se observa un elemento de tipo "enlace" que nos dirige hasta el tercer bloque de la página.
+
+c)"Información destacada": si el propio usuario desea más información de la que se proporciona en la columna anterior, puede dirigirse a esta nueva columna mediante el uso del elemento enlace anteriormente explicado. Ello nos conduce al tercer bloque en el que se encuentra un listado de sitios web por cada localidad dentro del top de la página. Cualquier enlace se trata de una dirección "url" que nos dirige a una nueva página web, en este caso al sitio web de dicha localidad (incluyendo información turística, etc...)
+
+Para el desarrollo de esta maquetación, se ha hecho necesario el uso de la libreria "Bootstrap" la cual proporciona una fuente de código muy útil a la hora de maquetar mediante el uso de un grid (filas y columnas).               
